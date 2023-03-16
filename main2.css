@@ -1,0 +1,66 @@
+
+html{
+    font-size:22px;
+}
+
+body{
+    font-size:22px;
+    font-family:monospace;
+    line-height:1.5;
+    background-color:beige;
+    color:darkblue;
+    width:90vw;
+    
+}
+main{
+    font-size:22px;
+   
+   
+    
+    
+}
+nav,h1{
+    margin-left:15em;
+}
+p{
+    font-size:1rem;
+    width: 90vw;
+    color:rgba(0,0,0,1)
+}
+*{
+    margin:1.5 rem;
+    box-sizing:content-box;
+
+}
+.first{
+   
+    
+    width:90vw;
+    font-size:1rem;
+   
+    margin:2em;
+    /*margin-top:1.5em;
+    margin-right:2em;
+    margin-left:1.5em;
+    margin-bottom:1.5em;*/
+    padding:1.5em 1.5em 1.5em 1.5em;
+    border:10px double red;
+    outline: 5px solid purple;
+    outline-offset:-20px ;
+    
+    
+}
+.ball{
+    margin:3rem auto;
+    background-color:white;
+    width:150px;
+    height:150px;
+    border:2px;
+    outline:2px solid #000;
+    
+    border-radius:75px
+
+}   
+footer{
+    background-color:aquamarine;
+}
